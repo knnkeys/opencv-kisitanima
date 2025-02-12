@@ -1,5 +1,3 @@
-[![Hits](https://hits.sh/github.com/knnxw/OpenCv-KisiTanima.svg?style=for-the-badge&label=G%C3%B6r%C3%BCnt%C3%BCleme&color=1a1cd8&labelColor=000000)](https://hits.sh/github.com/knnxw/OpenCv-KisiTanima/)
-
 
 **OpenCV İLe Kişi Tanıma**
 
@@ -13,7 +11,7 @@
    
    Linux tabanlı sistemler için ;
   
-  ```git clone https://github.com/knnxw/OpenCv-KisiTanima && cd OpenCv-KisiTanima```
+  ```git clone https://github.com/knnkeys/opencv-kisitanima && cd opencv-kisitanima```
   
   ```pip install opencv-python && pip install face_recognition```
   
